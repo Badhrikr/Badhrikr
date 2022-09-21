@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻 Hi, I’m Badhri Kesava Raja S M</h1> 
+<h1 align="center">👨🏻‍💻 Hi, I’m Badhri Kesava Raja S M</h1> 
 <h2 align="center">Frontend JavaScript Web Developer </h2>
 
 ➢ I love creating new things<br>
