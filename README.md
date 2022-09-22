@@ -2,7 +2,7 @@
 <h2 align="center">Frontend JavaScript Web Developer </h2>
 
 ➢ I love creating new things<br>
-➢ I’m currently mastering JavaScript/React<br>
+➢ I’m currently mastering JavaScript/Svelte<br>
 ➢ I enjoy some CSS and HTML as well!<br>
 ➢ Open to learn new things
 
